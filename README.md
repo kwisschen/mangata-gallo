@@ -1,3 +1,3 @@
-# Mangata & Gallo Luxury Jewelry
+# Mangata & Gallo Luxury Jewelry in HTML and vanilla CSS
 
-HTML and vanilla CSS project for Meta Front-End Developer Professional Certificate
+First HTML project...Weeee!
