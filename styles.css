@@ -43,7 +43,7 @@ a:active {
   color: #fff5ee;
 }
 
-h1 {
+.banner-content {
   font-size: 3rem;
   margin-top: 1rem;
   margin-left: 1rem;
@@ -78,7 +78,7 @@ article {
 }
 
 .promotion {
-  background-image: url("blackwhite.jpeg");
+  background-image: url("./assets/images/blackwhite.jpeg");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -134,7 +134,6 @@ footer div {
 footer img {
   height: auto;
   width: 30%;
-  margin-left: 2rem;
 }
 
 footer p {
@@ -190,4 +189,10 @@ footer p {
   margin-bottom: 30px;
   font-size: 1.5rem;
   line-height: 150%;
+}
+
+.btn-primary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
