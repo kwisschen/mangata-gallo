@@ -2,7 +2,7 @@
 
 First HTML project...Woohoo!
 
-### Jewelry brand website written in HTML and vanilla CSS.
+### Jewelry brand website written mostly in HTML and vanilla CSS.
 
 ![Screenshot of Mangata & Gallo Homepage](./assets/images/mangata-home.png)
 
