@@ -32,15 +32,16 @@ a:link {
 }
 
 a:visited {
-  color: #ffe5b4;
+  color: #faf9f6;
+  text-decoration: none;
 }
 
 a:hover {
   color: #fffdd0;
 }
 
-a:active {
-  color: #fff5ee;
+a:target {
+  color: #ffe5b4;
 }
 
 .banner-content {
